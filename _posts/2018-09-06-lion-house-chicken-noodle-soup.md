@@ -2,9 +2,8 @@
 date: 2018-09-06
 title: Lion House Chicken Noodle Soup
 categories:
-  - Soup
-  - Homestyle
-  - Hearty
+  - Soups
+  - Quick Meals
 featured_image: /images/chickens.svg
 recipe:
   servings: 12 Bowls
@@ -27,9 +26,9 @@ recipe:
 ---
 I always hated chicken noodle soup growing up, no matter how sick I was! 
 When I got married though, my husband's family made this thick, creamy version that I absolutely love.
-![Chicks](/images/chicks)
+![Chicks](/images/chicks.svg)
 It is a really quick and easy recipe where most of your time is spent just chopping the vegetables and cooking the noodles. 
-![Chicks](/images/chicks2)
+![Chicks](/images/chicks2.svg)
 Also, this recipe usually makes enough for some leftovers, at least at our house, and thankfully, it is able to hold its own when left in the fridge a few days, making it a great candidate for lunches for the next few days!
-![Chicks](/images/chicks3)
+![Chicks](/images/chicks3.svg)
 I hope you enjoy it as much as we do!
