@@ -50,7 +50,7 @@ recipe:
 Phillip is a taco fiend.  
 He loves tacos - and these honey chipotle chicken tacos are some of his favorite.  
 
-![Tacos]({{ site.baseurl }}/images/honeychipotletacos.jpg)
+![Tacos]({{ site.baseurl }}/images/honeychipotletacos.JPG)
 
 This recipe is relatively easy but can be a bit time consuming when you are making them by yourself, because you're breading chicken, baking it, making a sauce from scratch, and making rice. 
 
