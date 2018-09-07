@@ -26,9 +26,15 @@ recipe:
 ---
 I always hated chicken noodle soup growing up, no matter how sick I was! 
 When I got married though, my husband's family made this thick, creamy version that I absolutely love.
+
 ![Chicks]({{ site.baseurl }}/images/chicks.svg)
+
 It is a really quick and easy recipe where most of your time is spent just chopping the vegetables and cooking the noodles. 
+
 ![Chicks]({{ site.baseurl }}/images/chicks2.svg)
+
 Also, this recipe usually makes enough for some leftovers, at least at our house, and thankfully, it is able to hold its own when left in the fridge a few days, making it a great candidate for lunches for the next few days!
+
 ![Chicks]({{ site.baseurl }}/images/chicks3.svg)
+
 I hope you enjoy it as much as we do!

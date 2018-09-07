@@ -24,11 +24,17 @@ recipe:
     6. Once it is done, you probably will want to eat it immediately (that's what we do), so put some toppings on and go for it! If you'd like to match the feeling of Cold Stone's ice cream, however, I'd advise to place the ice cream in the freezer for a few hours (perhaps overnight) to allow it to freeze more completely.
 ---
 First, this is Phillip, Brittni's husband, writing this post. And to start, you should know, i love ice cream. I could eat it every day, and when we have some in the freezer, I do... Since I know I'll cruise through a carton, if I buy ice cream, it will be the cheapest one available in the flavor I am craving.
+
 ![Ice Cream]({{ site.baseurl }}/images/icecream1.png)
+
 Brittni, on the other hand, prefers to eat the fancy stuff. If it is a special occasion, or if we are craving ice cream, then she wants Cold Stone! While I like to explore their flavors, since we can't afford to eat there often, her order is as predictable as mine is uncertain. She will undoubtedly get their sweet cream ice cream with berries and possibly cookies and whipped cream mixed in.
+
 ![Ice Cream]({{ site.baseurl }}/images/icecream2.png)
+
 At first, I couldn't understand all the hubbub around her order. From my perspective, vanilla was as plain (i.e. boring) as it could get. Sweet cream meant you took the one flavor out of the mix, officially producing the plainest ice cream in history.
+
 ![Ice Cream]({{ site.baseurl }}/images/icecream3.png)
+
 I was wrong.
 
 It is delicious!

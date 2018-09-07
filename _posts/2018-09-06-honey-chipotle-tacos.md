@@ -46,11 +46,18 @@ recipe:
     7. Dip the cooked chicken into the sauce, until fully coated. Set aside until you are ready to assemble your tacos.
     8. Warm the tortillas. Then assemble your tacos by adding rice and chicken strips into the tortilla, drizzling ranch overtop, and finishing with a sprinkle of cilantro. Serve immediately, and enjoy!
 ---
+
 Phillip is a taco fiend.  
 He loves tacos - and these honey chipotle chicken tacos are some of his favorite.  
+
 ![Tacos]({{ site.baseurl }}/images/tacos1.png)
+
 This recipe is relatively easy but can be a bit time consuming when you are making them by yourself, because you're breading chicken, baking it, making a sauce from scratch, and making rice. 
+
 ![Tacos]({{ site.baseurl }}/images/tacos2.png)
+
 Because of this, the recipe  has quite a few steps, so we usually save this meal for a weekend when we have more time to cook and aren't racing to get dinner on table like we are during the weekdays. 
+
 ![Tacos]({{ site.baseurl }}/images/tacos3.png)
+
 We found this recipe on Pinterest from cookingandbeer.com, it's definitely one of our Pinterest wins!
