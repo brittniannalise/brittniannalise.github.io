@@ -3,7 +3,7 @@ date: 2018-09-06
 title: Sweet Cream Ice Cream
 categories:
   - Ice Cream
-featured_image: /images/icecream1.jpeg
+featured_image: /images/icecream1.png
 recipe:
   servings: 6 Bowls
   prep: 30 minutes
@@ -25,7 +25,7 @@ recipe:
 ---
 First, this is Phillip, Brittni's husband, writing this post. And to start, you should know, i love ice cream. I could eat it every day, and when we have some in the freezer, I do... Since I know I'll cruise through a carton, if I buy ice cream, it will be the cheapest one available in the flavor I am craving.
 
-![Ice Cream]({{ site.baseurl }}/images/icecream.png)
+![Ice Cream]({{ site.baseurl }}/images/icecream.jpeg)
 
 Brittni, on the other hand, prefers to eat the fancy stuff. If it is a special occasion, or if we are craving ice cream, then she wants Cold Stone! While I like to explore their flavors, since we can't afford to eat there often, her order is as predictable as mine is uncertain. She will undoubtedly get their sweet cream ice cream with berries and possibly cookies and whipped cream mixed in.
 

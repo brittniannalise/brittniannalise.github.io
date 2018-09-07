@@ -3,7 +3,7 @@ date: 2018-09-06
 title: Honey Chipotle Chicken Tacos with Cilantro Rice
 categories:
   - Dinners
-featured_image: /images/honeychipotletacos.jpeg
+featured_image: /images/tacos2.png
 recipe:
   servings: 8-12 Tacos
   prep: 45 Minutes
@@ -50,11 +50,11 @@ recipe:
 Phillip is a taco fiend.  
 He loves tacos - and these honey chipotle chicken tacos are some of his favorite.  
 
-![Tacos]({{ site.baseurl }}/images/tacos1.png)
+![Tacos]({{ site.baseurl }}/images/honeychipotletacos.jpg)
 
 This recipe is relatively easy but can be a bit time consuming when you are making them by yourself, because you're breading chicken, baking it, making a sauce from scratch, and making rice. 
 
-![Tacos]({{ site.baseurl }}/images/tacos2.png)
+![Tacos]({{ site.baseurl }}/images/tacos1.png)
 
 Because of this, the recipe  has quite a few steps, so we usually save this meal for a weekend when we have more time to cook and aren't racing to get dinner on table like we are during the weekdays. 
 
