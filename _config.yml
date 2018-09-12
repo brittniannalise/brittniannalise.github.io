@@ -4,7 +4,7 @@
 title: Treat Template
 url: "https://brittniannalise.github.io"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-125677354-1
 newsletter_action:
 disqus_shortname: brittniannalise-github-io
 
@@ -12,8 +12,8 @@ disqus_shortname: brittniannalise-github-io
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
-  name:
-  email:
+  name: Brittni Helms
+  email: annalise125@icloud.com
   twitter: # twitter username without the @ symbol
 social:
   name: Treat Template
