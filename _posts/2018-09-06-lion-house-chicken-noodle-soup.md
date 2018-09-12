@@ -3,7 +3,6 @@ date: 2018-09-06
 title: Lion House Chicken Noodle Soup
 categories:
   - Soups
-  - Quick Meals
 featured_image: /images/chickens.svg
 recipe:
   servings: 12 Bowls
