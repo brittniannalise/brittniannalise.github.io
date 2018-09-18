@@ -1,5 +1,5 @@
 ---
-date: 2018-09-06
+date: 2018-09-17
 title: White Chicken Chili
 categories:
   - Soups
